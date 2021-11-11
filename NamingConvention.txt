@@ -1,0 +1,14 @@
+Upper Camel Case
+	ex: UpperCamelCase
+
+Objects
+	ex: SM_HalfWall_01 (SM = static mesh)
+
+Textures
+	ex: T_HalfWall_01_D (D = Diffuse, MT = Metallic, R = Roughness, N = Normal, AO = Ambient Occlusion)
+
+Materials
+	ex: M_HalfWall_01
+
+
+If Unsure Check This:	https://www.tomlooman.com/unreal-engine-naming-convention-guide/
